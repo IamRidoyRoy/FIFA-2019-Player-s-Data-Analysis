@@ -1,2 +1,2 @@
 # FIFA-2019-Player-s-Data-Analysis
-I find here the difference between Values &amp; Wages more than 18k Players. So that, my Boss can hire the right players.
+We all know about FIFA. Suppose, A team wants to hire some players but normally a player who already plays for a team won't want to go to another team. On the other hand, some players want to change their team as they have high value but get a low range of wages. So, We have to find this player who has high value and a low range of wages. So that, My Boss can hire the players. I have done this task here on 18,000+ players.
